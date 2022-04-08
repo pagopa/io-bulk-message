@@ -5,7 +5,7 @@ parameters:
   - name: 'INPUT_FILE_NAME'
     displayName: 'Input file name'
     type: string
-    default: 'sample.csv'
+    default: 'bulk-message/sample.csv'
   - name: 'API_KEY'
     displayName: 'Api key'
     type: string
