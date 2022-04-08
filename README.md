@@ -1,6 +1,6 @@
 # io-bulk-message
 
-## How to send message to IO users (max 20.000 users)
+## How to send message to IO users
 
 1. create a message in **templates** folder
 2. in azure portal go to **[iopstexportdata](https://portal.azure.com/#@pagopait.onmicrosoft.com/resource/subscriptions/ec285037-c673-4f58-b594-d7c480da4e8b/resourceGroups/io-p-rg-operations/providers/Microsoft.Storage/storageAccounts/iopstexportdata/overview)** (storage account)
