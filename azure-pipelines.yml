@@ -23,7 +23,7 @@ pool:
 steps:
 - bash: |
     TIMESTAMP=$(date +%s)
-    BASE_PATH="invii_spot"
+    BASE_PATH="bulk-message"
     echo "TIMESTAMP: ${TIMESTAMP}"
     echo "INPUT_FILE_NAME: ${ENV_INPUT_FILE_NAME}"
     echo "MESSAGE_FILE_NAME: ${ENV_MESSAGE_FILE_NAME}"
