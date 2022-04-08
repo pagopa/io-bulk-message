@@ -70,3 +70,9 @@ steps:
     ENV_STORAGE_KEY: '$(STORAGE_KEY)'
     ENV_LOGIC_APP_URL: '$(LOGIC_APP_URL)'
   displayName: 'split and trigger logic app'
+
+- bash: |
+    rm -rf *.txt
+    rm -rf output
+  condition: succeededOrFailed()
+  displayName: 'clean up'
