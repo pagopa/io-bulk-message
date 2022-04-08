@@ -3,19 +3,10 @@
 ## How to send message to IO users (max 20.000 users)
 
 1. create a message in **templates** folder
-2. in azure portal go to **iopstexportdata** (storage account)
+2. in azure portal go to **[iopstexportdata](https://portal.azure.com/#@pagopait.onmicrosoft.com/resource/subscriptions/ec285037-c673-4f58-b594-d7c480da4e8b/resourceGroups/io-p-rg-operations/providers/Microsoft.Storage/storageAccounts/iopstexportdata/overview)** (storage account)
 3. upload fiscalcode csv into **input** container (es. beta_testers.csv)
-4. in azure portal go to **io-p-lapp-send-message** (logic app)
-5. click **Logic app designer** and select **parameters**
-6. modify **api_key** parameter with sender service subscription key
-7. modify **message_body** parameter with message file created into **templates** folder (es. template.json)
-8. run logic app with payload like:
-
-```json
-{
-    "filename": "/invii_spot/beta_testers.csv"
-}
-```
-
-
-https://dev.azure.com/pagopaspa/io-bulk-message
+4. go to **[Azure DevOps](https://dev.azure.com/pagopaspa/io-bulk-message/_build?definitionId=531)** and click **run pipeline**
+5. insert required params and click run
+7. go to **[io-p-lapp-send-message](https://portal.azure.com/#@pagopait.onmicrosoft.com/resource/subscriptions/ec285037-c673-4f58-b594-d7c480da4e8b/resourceGroups/io-p-rg-operations/providers/Microsoft.Logic/workflows/io-p-lapp-send-message/logicApp)** (logic app)
+8. monitor running logic apps
+9. when all jobs finished you can download log files into **[iopstexportdata](https://portal.azure.com/#@pagopait.onmicrosoft.com/resource/subscriptions/ec285037-c673-4f58-b594-d7c480da4e8b/resourceGroups/io-p-rg-operations/providers/Microsoft.Storage/storageAccounts/iopstexportdata/overview)** **dfout/bulk-message** container
