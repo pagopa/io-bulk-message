@@ -32,7 +32,7 @@ steps:
     az storage blob download \
       --account-name iopstexportdata \
       --container-name input \
-      --name "${BASE_PATH}/${ENV_INPUT_FILE_NAME}" \
+      --name "${ENV_INPUT_FILE_NAME}" \
       --file "${TIMESTAMP}.txt" \
       --account-key "${ENV_STORAGE_KEY}"
 
