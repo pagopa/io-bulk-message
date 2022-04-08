@@ -16,3 +16,6 @@
     "filename": "/invii_spot/beta_testers.csv"
 }
 ```
+
+
+https://dev.azure.com/pagopaspa/io-bulk-message
