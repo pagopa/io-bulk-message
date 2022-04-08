@@ -57,7 +57,7 @@ steps:
       curl --location --request POST "${ENV_LOGIC_APP_URL}" \
         --header 'Content-Type: application/json' \
         --data-raw '{
-          "filename": "'"${BASE_PATH}/${TIMESTAMP}/${filename}"'",
+          "filename": "/'"${BASE_PATH}/${TIMESTAMP}/${filename}"'",
           "api_key": "'"${ENV_API_KEY}"'",
           "message_filename": "'"${ENV_MESSAGE_FILE_NAME}"'"
          }'
