@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Scopri le novità di Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla carta\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"Go to card\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 6 nuove offerte per te questa settimana sulla Carta Giovani Nazionale! Vieni a scoprirle assieme alle altre 122 agevolazioni proposte dai nostri 62 partner."
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 6 nuove offerte per te questa settimana sulla Carta Giovani Nazionale! \n\nVieni a scoprirle assieme alle altre 122 agevolazioni proposte dai nostri 62 partner."
   }
 }
