@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Scopri le novità di Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 6 nuove offerte per te questa settimana sulla Carta Giovani Nazionale!\n\nVieni a scoprirle assieme alle altre 122 agevolazioni proposte dai nostri 62 partner."
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"Open your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCarta Giovani Nazionale è cambiata!\n\nDa oggi le nuove agevolazioni sono segnalate dal badge 'novità' per scoprire subito che cosa c'è di nuovo nella Carta.\n\nSe ancora non lo vedi, aggiorna l'App IO e scopri le nuove offerte pronte per te! 3 sono in Istruzione e formazione e 3 in Telefonia, Casa e Viaggi."
   }
 }
