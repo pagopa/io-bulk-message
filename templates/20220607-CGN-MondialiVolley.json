@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Mondiali di Beach Volley con la Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nVieni ai Mondiali di Beach Volley di Roma con il 50% di sconto!\n\nDisponibile sul sito  [TicketOne](https://www.ticketone.it/artist/campionati-mondiali-beach-volley/) per i possessori di Carta Giovani Nazionale)!\n\n\nTi aspettiamo al Foro Italico dal 10 al 19 giugno!"
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nVieni ai Mondiali di Beach Volley di Roma con il 50% di sconto!\n\nDisponibile sul sito  [TicketOne](https://www.ticketone.it/artist/campionati-mondiali-beach-volley/) per i possessori di Carta Giovani Nazionale!\n\n\nTi aspettiamo al Foro Italico dal 10 al 19 giugno!"
   }
 }
