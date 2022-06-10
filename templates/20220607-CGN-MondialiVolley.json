@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Scopri le novità di Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nVerifica periodicamente le nuove agevolazioni disponibili sulla tua CGN, ora puoi anche assistere ai Mondiali di Beach Volley di Roma dal 10 al 19 giugno (sezione sport) con il 50% di sconto!"
+    "markdown": "\n\n\nVerifica periodicamente le nuove agevolazioni disponibili sulla tua CGN, ora puoi anche assistere ai Mondiali di Beach Volley di Roma dal 10 al 19 giugno (sezione sport) con il 50% di sconto!"
   }
 }
