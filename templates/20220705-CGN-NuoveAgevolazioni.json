@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nQuesta settimana, per te che hai la Carta Giovani, ci sono **sei nuove offerte** nei settori Lavoro e Tirocini, Casa, Telefonia e Internet, Istruzione e Formazione e Viaggi e Trasporti.\n\nDue di queste, nella sezione Lavoro e Tirocini, sono disponibili ancora per poco tempo: scoprile subito insieme alle altre 141 proposte dai nostri 72 partner!"
+  }
+}
