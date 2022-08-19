@@ -1,7 +1,6 @@
 {
   "content": {
     "subject": "Puoi ancora partecipare al sondaggio per migliorare la Carta Giovani Nazionale!",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai al questionario\"\n        action: \"https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE"\nen:\n    cta_1: \n        text: \"Go to the survey\"\n        action: \"https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE\"\n---\n\n\nVuoi contribuire al miglioramento della Carta Giovani Nazionale? Se non l'hai ancora fatto, rispondi a questo breve questionario: ci vogliono pochi minuti ed è completamente anonimo!\n\nLa tua risposta ci aiuterà a migliorare la Carta Giovani Nazionale e le offerte che propone.\n\nGrazie per il tuo contributo!
-"
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai al questionario\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE\"\nen:\n    cta_1: \n        text: \"Go to the survey\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE\"\n---\n\n\nVuoi contribuire al miglioramento della Carta Giovani Nazionale? Se non l'hai ancora fatto, rispondi a questo breve questionario: ci vogliono pochi minuti ed è completamente anonimo!\n\nLa tua risposta ci aiuterà a migliorare la Carta Giovani Nazionale e le offerte che propone.\n\nGrazie per il tuo contributo!"
   }
 }
