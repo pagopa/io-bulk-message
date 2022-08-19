@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Scopri le novità di Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nQuesta settimana, per te che hai la Carta Giovani, ci sono opportunità nei settori Lavoro e Tirocini, come, ad esempio, quelle segnalate dal Ministero del Lavoro e delle Politiche Sociali.\n\nCogli le occasioni di mezza estate! Su Carta Giovani Nazionale sono quasi 160 in totale le offerte e le agevolazioni per te!"
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nQuesta settimana, per te che hai la Carta Giovani, ci sono opportunità nel settore Lavoro e Tirocini, come, ad esempio, quelle segnalate dal Ministero del Lavoro e delle Politiche Sociali.\n\nCogli le occasioni di mezza estate! Su Carta Giovani Nazionale sono quasi 160 in totale le offerte e le agevolazioni per te!"
   }
 }
