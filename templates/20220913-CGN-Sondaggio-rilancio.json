@@ -1,7 +1,0 @@
-{
-  "content": {
-    "subject": "Partecipa al sondaggio per migliorare la Carta Giovani Nazionale! Ultimi giorni!",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai al questionario\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE\"\nen:\n    cta_1: \n        text: \"Go to the survey\"\n        action: \"https://ec.europa.eu/eusurvey/runner/QUESTIONARIO_PER_GIOVANI_POSSESSORI_DELLA_CARTA_GIOVANI_NAZIONALE\"\n---\n\n\nVuoi contribuire al miglioramento della Carta Giovani Nazionale? Entro venerdì 16 settembre puoi ancora rispondere al questionario: ci vogliono pochi minuti ed è completamente anonimo!\n\n\n\nGrazie per il tuo contributo!
-"
-  }
-}
