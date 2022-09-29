@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 14 nuove offerte per te su Carta Giovani Nazionale: 7 nel settore Istruzione e Formazione, 2 in Lavoro e Tirocini e Viaggi e Trasporti, 1 per ciascuno dei settori Casa, Sport e Telefonia.\n\nSe non lo hai ancora fatto, aggiorna IO all'ultima versione, per accedere più facilmente alle 153 offerte riservate ai possessori di Carta Giovani Nazionale."
+  }
+}
