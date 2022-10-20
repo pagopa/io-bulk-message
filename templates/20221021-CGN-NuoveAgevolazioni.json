@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nPronti per le offerte dell’autunno? Ci sono sempre più offerte per te che hai la Carta Giovani Nazionale.\n\nQuesta settimana troverai 10 novità di cui: 1 nel settore Casa, 3 nel settore Istruzione e Formazione, 2 in Lavoro e Tirocini, 2 in Telefonia e Internet e 2 in Viaggi e Trasporti.\n\nScoprile subito!"
+  }
+}
