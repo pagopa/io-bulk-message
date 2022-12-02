@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 9 nuove offerte per te che hai la Carta Giovani Nazionale: 2 nel settore Cultura e Tempo libero, 2 in Istruzione e Formazione, 1 in Sport, 2 in Mobilità Sostenibile, 1 in Salute e Benessere e 1 in Viaggi e Trasporti.\n\nScoprile subito!"
+  }
+}
