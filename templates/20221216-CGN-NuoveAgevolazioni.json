@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi avviciniamo al Natale e ci sono 11 nuove offerte per te che hai la Carta Giovani Nazionale: 1 nel settore Casa, 1 in Cultura e Tempo Libero, 6 in Istruzione e Formazione e 3 in Viaggi e Trasporti.\n\nScoprile subito!"
+  }
+}
