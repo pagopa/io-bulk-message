@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nIl 2023 inizia con 12 nuove offerte per te che hai la Carta Giovani Nazionale: 1 nel settore Casa, 1 in Cultura e Tempo Libero, 7 in Istruzione e Formazione 2 in Mobilità Sostenibile e 1 in Viaggi e Trasporti.\n\nScoprile subito!"
+  }
+}
