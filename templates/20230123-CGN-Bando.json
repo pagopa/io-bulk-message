@@ -1,6 +1,6 @@
 {
   "content": {
-    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "subject": "Il nuovo avviso del Servizio Civile per i giovani",
     "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nScade il 10 febbraio il bando per candidarsi a uno dei 71.550 posti per volontari del servizio civile messi a disposizione dal Dipartimento per le politiche giovanili e il Servizio Civile Universale.\n\nSe hai tra i 18 e i 28 anni, scegli tra uno dei 3.181 progetti in Italia e all’estero: un'occasione per dedicare tempo al servizio del tuo Paese, acquisendo nuove competenze e beneficiando di un rimborso mensile.\n\nVai alle opportunità del Dipartimento per le politiche giovanili e il Servizio Civile Universale su Carta Giovani Nazionale!"
   }
 }
