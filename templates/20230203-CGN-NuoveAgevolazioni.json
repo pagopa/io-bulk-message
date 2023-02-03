@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 12 nuove opportunità per te che hai la Carta Giovani Nazionale: 1 nel settore Casa (offerta da ENI Plenitude), 2 in Cultura e Tempo Libero (da Storytel e il Dipartimento per le politiche giovanili e il Servizio Civile Universale), 7 in Istruzione e Formazione (da IDCert, Aforisma, Rome Business School, Eastwest European Institute, Istituto Francese Italia e Scuola di Robotica), 1 in Lavori e Tirocini (dal Dipartimento per le politiche giovanili e il Servizio Civile Universale) e 1 in Viaggi e Trasporti (da Trenitalia).\n\nScoprile subito!"
+  }
+}
