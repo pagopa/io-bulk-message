@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nQuesta settimana, ci sono *12 nuove offerte per te* che hai la Carta Giovani Nazionale: 1 in Cultura e Tempo Libero da parte di Treedom, 2 in Istruzione e Formazione da parte di Cinema Live e Tree, 1 in Mobilità Sostenibile da Bit Mobility e Eni Plenitude, 2 in Salute e Benessere da parte di Serenis, 1 in Servizi Bancari e Finanziari da parte di Agos e 3 in Viaggi e Trasporti da parte di ITA Airways e Booking. E non è tutto… dal 24 febbraio ci saranno molte nuove offerte e opportunità per celebrare l’*anno europeo delle competenze*.\n\nVai alla tua CGN per usufruire di queste agevolazioni!!"
+  }
+}
