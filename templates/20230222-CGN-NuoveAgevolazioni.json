@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nHai visto le 16 novità di questa settimana per te che hai la Carta Giovani Nazionale? Ci sono 2 offerte di **Eni Plenitude** e 2 di **Pulsee** nel settore Casa, 1 del **Dipartimento per le politiche giovanili e il Servizio Civile Universale** e 1 di **Tree** in Cultura e Tempo Libero, 4 di **Social & Impact**, 1 del **Dipartimento per le politiche giovanili e il Servizio Civile Universale** e 1 di **MyES Italia** nel settore Istruzione e Formazione, 1 del **Dipartimento per le politiche giovanili e il Servizio Civile Universale** in Lavori e Tirocini, 1 di **Agos** e 1 di **Intesa Sanpaolo** nel settore Servizi Bancari e Finanziari, e 1 di **Flixbus** nel settore Viaggi e Trasporti.\n\nE non è tutto… dal 24 febbraio ci saranno molte nuove offerte e opportunità per celebrare l’anno europeo delle competenze.\n\nVai alla tua CGN per usufruire di queste agevolazioni!"
+  }
+}
