@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "+ Competenze: un mese di opportunità speciali",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nÈ iniziato il mese **+ Competenze**: un mese di opportunità speciali dedicate a te. Più istruzione, formazione e conoscenza, in occasione dell'Anno Europeo delle Competenze.\n\n**I partner che aderiscono li riconosci dalla 🇪🇺.**\n\nAccedi. Esplora. Scegli."
+  }
+}
