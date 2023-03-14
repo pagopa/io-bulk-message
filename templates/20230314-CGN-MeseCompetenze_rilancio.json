@@ -1,7 +1,6 @@
 {
   "content": {
     "subject": "+ Competenze: un mese di opportunità speciali",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\n+Competenze, il mese dedicato alle straordinarie offerte per la formazione, prosegue su Carta Giovani Nazionale.\n\nFino al 31 marzo, puoi ottenere condizioni ancora migliori dai partner di Carta Giovani Nazionale evidenziati con la bandierina europea 🇪🇺.\n\nQuali competenze vorresti acquisire?
-Affrettati a trovare quella giusta per te! 🇪🇺.\n\nAccedi. Esplora. Scegli."
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\n+Competenze, il mese dedicato alle straordinarie offerte per la formazione, prosegue su Carta Giovani Nazionale.\n\nFino al 31 marzo, puoi ottenere condizioni ancora migliori dai partner di Carta Giovani Nazionale evidenziati con la bandierina europea 🇪🇺.\n\nQuali competenze vorresti acquisire? Affrettati a trovare quella giusta per te!"
   }
 }
