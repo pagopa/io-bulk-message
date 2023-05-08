@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "Le novità di Carta Giovani Nazionale",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 8 novità, per te che hai la CGN, da parte di **RTL 102,5, Radio Zeta, Radio Freccia, IDCERT, Istituto Francese in Italia, Coldiretti** e **Travellero.**\n\nMa questa settimana c’è un’altra novità: dall' 8 al 21 maggio saremo presenti agli Internazionali d’Italia BNL di Tennis a Roma con uno stand dedicato a Carta Giovani Nazionale: **passa a trovarci!**"
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono 8 novità, per te che hai la CGN, da parte di **RTL 102,5, Radio Zeta, Radio Freccia**, **IDCERT**, **Istituto Francese in Italia**, **Coldiretti** e **Travellero**.\n\nMa questa settimana c’è un’altra novità: dall'8 al 21 maggio saremo presenti agli Internazionali d’Italia BNL di Tennis a Roma con uno stand dedicato a Carta Giovani Nazionale: **passa a trovarci!**"
     }
 }
