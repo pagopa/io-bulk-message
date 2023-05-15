@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "+ Mobilità Sostenibile: un mese di opportunità speciali",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nÈ iniziato il mese **+ Mobilità Sostenibile**: un mese di offerte speciali  dedicate allo sharing.\n\nTra le agevolazioni della tua app, cerca il simbolo 🛴 per bici, scooter e auto elettrici, monopattini e taxi ecologici.\n\nAccedi. Esplora. Scegli."
+  }
+}
