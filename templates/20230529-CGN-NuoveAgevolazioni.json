@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Le novità di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai alla tua CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCi sono tante novità per te che hai Carta Giovani Nazionale, a partire dal **concerto del 10 giugno al Foro Italico di Roma**, organizzato da **Radio Zeta / RTL 105.5** con **Lazza**, **I Pinguini Tattici Nucleari**, **Angelina Mango**, **Tananai**, **Sangiovanni**, **Mahmood**, **Elodie**, **Emma**, **Mr. Rain** e tanti altri, e dalle offerte riguardanti l’iniziativa **+Mobilità Sostenibile**, che si concluderà il **15 giugno**."
+  }
+}
