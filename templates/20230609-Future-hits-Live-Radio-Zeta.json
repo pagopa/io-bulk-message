@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "CGN mobilità",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\n\"Non sai come arrivare al **Future Hits Live** di **Radio Zeta** del 10 giugno 2023 al Foro Italico di Roma? Ci pensa Carta Giovani Nazionale! Per te offerte speciali da parte dei partner **Bird**, **Dott** e **Tier Mobility**.\nTrova il simbolo del :monopattino: dentro CGN e muoviti in modo più sostenibile!"
+  }
+}
