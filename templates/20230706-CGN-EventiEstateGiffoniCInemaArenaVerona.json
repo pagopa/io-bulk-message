@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "GLI EVENTI DELL’ESTATE CON CARTA GIOVANI NAZIONALE",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCarta Giovani Nazionale è presente al **Giffoni Film Festival**, la più grande rassegna cinematografica per giovani. Vieni anche tu! Con la tua Carta Giovani Nazionale puoi prenotare **pullman e treni** per raggiungere il Festival a costi ridotti.\n\nInoltre per tutto il mese di luglio hai sconti per andare al **cinema** in tutte le città italiane. Ti basta cercare i partner con l'emoticon \uD83C\uDFAC. \n\nMa le novità dell’estate non finiscono qui!\n\nAlla **Arena di Verona, il 30 agosto**, Radio Zeta Future Hits Live 2023, raddoppia! Il Festival della Generazione Zeta, con tutti gli artisti più amati, torna il 30 agosto all’Arena di Verona! Cerca \"RTL 102.5, Radio Zeta, Radiofreccia\" su CGN e acquista il tuo biglietto scontato per vivere una serata unica!"
+  }
+}
