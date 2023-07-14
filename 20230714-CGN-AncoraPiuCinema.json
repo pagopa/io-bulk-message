@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Con Carta Giovani Nazionale ancora + cinema!",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nCarta Giovani Nazionale celebra il mese del cinema con offerte speciali messe a disposizione da **Anec** e **Uci Cinemas** per poter vedere le proiezioni in sala a prezzi ridotti.\n\nMa non finisce qui perché Carta Giovani Nazionale è partner di Giffoni Film Festival e ti consente di andare al Festival del cinema a prezzi contenuti grazie alle agevolazioni di **Marino Bus** e di **Trenitalia**.\n\nCosa aspetti? Vieni al Festival dove, oltre a poter vedere i migliori film del momento, potrai svolgere tante attività interattive sul digitale, sulla formazione, sul lavoro e sul benessere psicologico assieme a **CinemaLive**, **Fondazione Vodafone**, **Manpower** e **Serenis**!"
+  }
+}
