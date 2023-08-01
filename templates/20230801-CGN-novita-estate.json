@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Le novità dell’estate di Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\n**16 nuove opportunità della settimana** riservate a te che hai la Carta Giovani Nazionale.\n\nTi proponiamo 3 offerte di **Enel Energia** nel settore Casa, 2 offerte di **UCI Cinemas** e 2 di **ANEC** in Cultura e Tempo Libero, una di **IDCERT** e una dell'**Istituto Francese Italia** nel settore Istruzione e Formazione, 2 di **Europ Assistance Italia** in Servizi Bancari e Finanziari, 2 di **TIM** nel settore Telefonia e Internet, 2 di **ITA Airways** e 1 di **Grimaldi Lines** in Viaggi e Trasporti.\n\nAccedi alla tua Carta Giovani Nazionale per poterne usufruire!"
+  }
+}
