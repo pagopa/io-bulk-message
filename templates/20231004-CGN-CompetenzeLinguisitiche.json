@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": " + Competenze Linguistiche con Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nPer il tuo prossimo viaggio all’estero preparati con i corsi di lingua offerti da Carta Giovani Nazionale!\n\nOltre 10 partner della Carta, identificati con il simbolo 🌎, propongono agevolazioni dedicate per partecipare a laboratori, corsi, master, on-line e in presenza e ottenere una certificazione linguistica.\n\nScegli la proposta più adatta a te per migliorare il tuo CV e dialogare senza difficoltà nelle lingue dei tuoi amici!\n\nAccedi alla Carta Giovani Nazionale a partire dal 6 fino al 31 ottobre prossimo."
+  }
+}
