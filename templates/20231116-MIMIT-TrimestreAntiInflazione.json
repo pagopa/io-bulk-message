@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Trimestre Anti Inflazione",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Scopri di più\"\n        action: \"iohandledlink://https://www.mimit.gov.it/it/anti-inflazione\"\n    \nen:\n    cta_1: \n        text: \"See more\"\n        action: \"iohandledlink://https://www.mimit.gov.it/it/anti-inflazione\"\n---\nFino al 31 dicembre fare la spesa costa meno grazie al Trimestre Anti Inflazione, il patto tra Governo, distributori e produttori per tutelare il potere d'acquisto dei cittadini e delle famiglie.\n\nI punti vendita del territorio nazionale che aderiscono all'iniziativa in difesa della spesa propongono una vasta gamma di prodotti di prima necessità, alimentari e non, per l'infanzia e di largo consumo con l'impegno a contenere e non aumentare i prezzi.\n\nI negozi e i prodotti che aderiscono all'iniziativa sono riconoscibili grazie all'apposito bollino, un \"carrello tricolore\" collocato nei punti vendita e sugli scaffali dei negozi.\n\nScopri di più [sul sito dell'iniziativa](https://www.mimit.gov.it/it/anti-inflazione)."
+  }
+}

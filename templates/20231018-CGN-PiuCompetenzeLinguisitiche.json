@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": " + Competenze Linguistiche con Carta Giovani Nazionale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n\n\nContinua l'iniziativa + Competenze linguistiche: oltre 20 offerte e agevolazioni per intraprendere corsi on-line ed in presenza, master e approfondimenti per conoscere oltre 11 lingue a disposizione.\n\nEsplora tra i partner con il simbolo 🌎, scegli la proposta più adatta a te e fai il passaparola!\nC’è tempo fino al 31 ottobre!"
+  }
+}
