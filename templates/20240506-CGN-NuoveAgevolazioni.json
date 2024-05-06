@@ -1,5 +1,6 @@
 {
   "content": {
     "subject": "Carta Giovani Nazionale: le novità del mese di Maggio",
-    "markdown": "---\nit:\n cta_1: \n text: \"Vai a CGN\"\n action: \"ioit://CGN_DETAILS\"\nen:\n cta_1: \n text: \"See your CGN\"\n action: \"ioit://CGN_DETAILS\"\n---\n\n\nLo sai che su Carta Giovani Nazionale ci sono delle nuove opportunità che possono interessarti❔\n📌Sedute di psicoterapia, corsi di francese, ingressi a musei e parco divertimenti, servizi e utenze per la casa\nScopri le novità del mese, le riconosci dal simbolo 🔔\n\nSeguici sui social per avere tutti i dettagli\nInstagram - [Le novità del mese](https://www.instagram.com/p/C6f8KwSo4xG/?igsh=bDRrbXVhb2E2ajlk)\nFacebook - [Le novità del mese](https://www.facebook.com/share/p/aDtKfRHYjMFmaUjh/?mibextid=WC7FNe)"}
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\nLo sai che su Carta Giovani Nazionale ci sono delle nuove opportunità che possono interessarti:grey_question:\n\n:pushpin:Sedute di psicoterapia, corsi di francese, ingressi a musei e parco divertimenti, servizi e utenze per la casa\nScopri le novità del mese, le riconosci dal simbolo :bell:\n\nSeguici sui social per avere tutti i dettagli  \nInstagram - [Le novità del mese](https://www.instagram.com/p/C6f8KwSo4xG/?igsh=bDRrbXVhb2E2ajlk)  \nFacebook - [Le novità del mese](https://www.facebook.com/share/p/aDtKfRHYjMFmaUjh/?mibextid=WC7FNe)"
+  }
 }
