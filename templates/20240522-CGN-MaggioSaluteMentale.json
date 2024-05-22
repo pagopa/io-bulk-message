@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Maggio è il mese della salute mentale",
+    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n📌 Maggio è il mese della salute mentale\n\nCarta Giovani Nazionale si impegna per la consapevolezza, la cura e il benessere psicologico.  \nScopri le agevolazioni sui percorsi di psicoterapia messi a disposizione dai partner Serenis e UnoBravo.\n\nSeguici sui social per avere tutti i dettagli  \n➾ [Instagram](https://www.instagram.com/reel/C6n4GFmozvc)  \n➾ [Facebook](https://www.facebook.com/reel/417725407681921)"
+  }
+}
