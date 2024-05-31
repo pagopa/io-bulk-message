@@ -1,0 +1,6 @@
+{
+    "content": {
+        "subject": "📢 La Tua Voce Conta! 📢",
+        "markdown": "---\nit:\n    cta_2: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\n    cta_1: \n        text: \"Questionario\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili\"\nen:\n    cta_2: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n    cta_1: \n        text: \"Go to the Poll\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili\"\n---\nAiutaci a migliorare le politiche giovanili: compila il [questionario](https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili) 📝 e fai sentire la tua opinione! 🗣"
+    }
+}
