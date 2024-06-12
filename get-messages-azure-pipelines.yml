@@ -1,0 +1,73 @@
+pr: none
+trigger: none
+
+parameters:
+  - name: 'INPUT_FILE_NAME'
+    displayName: 'Input file name'
+    type: string
+    default: 'bulk-get-message/message_ids.csv'
+  - name: 'API_KEY'
+    displayName: 'Api key'
+    type: string
+  - name: 'MAX_ROWS_FILE'
+    displayName: 'How many rows will contains the files (a low value increase delivery speed, max value is 100000)'
+    type: string
+    default: '50000'
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- bash: |
+    TIMESTAMP=$(date +%s)
+    BASE_PATH="bulk-get-message"
+    echo "TIMESTAMP: ${TIMESTAMP}"
+    echo "INPUT_FILE_NAME: ${ENV_INPUT_FILE_NAME}"
+    echo "MAX_ROWS_FILE: ${ENV_MAX_ROWS_FILE}"
+
+    az storage blob download \
+      --account-name iopstexportdata \
+      --container-name input \
+      --name "${ENV_INPUT_FILE_NAME}" \
+      --file "${TIMESTAMP}.txt" \
+      --account-key "${ENV_STORAGE_KEY}"
+
+    mkdir -p output_get_message
+    split --lines="${ENV_MAX_ROWS_FILE}" "${TIMESTAMP}.txt" "output_get_message/splitted_"
+    wc -l output_get_message/splitted_*
+
+    az config set extension.use_dynamic_install=yes_without_prompt
+    az storage blob directory upload \
+      --account-name iopstexportdata \
+      --container input \
+      --source "output_get_message/splitted_*" \
+      --destination-path "${BASE_PATH}/${TIMESTAMP}" \
+      --recursive \
+      --account-key "${ENV_STORAGE_KEY}"
+    
+    cd output_get_message
+    for filename in splitted_*; do
+      [ -e "$filename" ] || continue
+      sleep 2
+      echo "${BASE_PATH}/${TIMESTAMP}/${filename}"
+      curl --location --request POST "${ENV_LOGIC_APP_URL}" \
+        --header 'Content-Type: application/json' \
+        --data-raw '{
+          "filename": "/'"${BASE_PATH}/${TIMESTAMP}/${filename}"'",
+          "api_key": "'"${ENV_API_KEY}"'",
+          "message_filename": "'"${ENV_MESSAGE_FILE_NAME}"'"
+         }'
+    done
+  env:
+    ENV_INPUT_FILE_NAME: '${{ parameters.INPUT_FILE_NAME }}'
+    ENV_MAX_ROWS_FILE: '${{ parameters.MAX_ROWS_FILE }}'
+    ENV_API_KEY: '${{ parameters.API_KEY }}'
+    ENV_STORAGE_KEY: '$(STORAGE_KEY)'
+    ENV_LOGIC_APP_URL: '$(LOGIC_APP_URL)'
+  displayName: 'split and trigger logic app'
+
+- bash: |
+    rm -rf *.txt
+    rm -rf output_get_message
+  condition: succeededOrFailed()
+  displayName: 'clean up'
