@@ -54,8 +54,7 @@ steps:
         --header 'Content-Type: application/json' \
         --data-raw '{
           "filename": "/'"${BASE_PATH}/${TIMESTAMP}/${filename}"'",
-          "api_key": "'"${ENV_API_KEY}"'",
-          "message_filename": "'"${ENV_MESSAGE_FILE_NAME}"'"
+          "api_key": "'"${ENV_API_KEY}"'"
          }'
     done
   env:
