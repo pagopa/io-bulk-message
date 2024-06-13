@@ -33,7 +33,7 @@ steps:
       --account-key "${ENV_STORAGE_KEY}"
 
     mkdir -p output_get_message
-    split --lines="${ENV_MAX_ROWS_FILE}" "${TIMESTAMP}.txt" "output_get_message/splitted_"
+    split --lines="${ENV_MAX_ROWS_FILE}" --additional-suffix=.csv "${TIMESTAMP}.txt" "output_get_message/splitted_"
     wc -l output_get_message/splitted_*
 
     az config set extension.use_dynamic_install=yes_without_prompt
