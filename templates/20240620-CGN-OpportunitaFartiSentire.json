@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "📢 Non perdere l'opportunità di farti sentire!",
+    "markdown": "---\nit:\n    cta_2: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\n    cta_1: \n        text: \"Questionario\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili\"\nen:\n    cta_2: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n    cta_1: \n        text: \"Go to the Poll\"\n        action: \"iohandledlink://https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili\"\n---\n**Fino al 26 giugno** puoi rispondere al **[questionario](https://ec.europa.eu/eusurvey/runner/Questionario_comportamenti_giovanili) \"La tua voce conta!\"**.  \nCondividi la tua opinione per aiutare a migliorare le politiche giovanili.  \n💬 La tua voce può fare la differenza!"
+  }
+}
