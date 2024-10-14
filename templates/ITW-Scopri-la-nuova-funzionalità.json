@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Scopri la nuova funzionalità Documenti su IO",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Inizia\"\n    action: \"ioit://itw/discovery/info\"\nen:\n  cta_1:\n    text: \"Start here\"\n    action: \"ioit://itw/discovery/info\"\n---\nDa questo momento puoi sperimentare la nuova funzionalità **Documenti su IO** e aggiungere al Portafoglio dell’app la **versione digitale** dei tuoi documenti personali come Patente e Tessera Sanitaria.\n\nAttiva **Documenti su IO** con **SPID** o **CIE** (Carta d’Identità Elettronica) e scopri com’è facile aggiungere e custodire in sicurezza i tuoi documenti nel Portafoglio.\n\n**Utile da sapere**\n\nPuoi disattivare la funzionalità in qualsiasi momento dall’app, premendo su \"Cos’è\" nella sezione Portafoglio.\n\nSe non hai più il controllo del tuo dispositivo mobile, puoi disattivare Documenti su IO anche dal **[portale web](https://ioapp.it/it/accedi/?refresh=true)** dedicato."
+  }
+}
