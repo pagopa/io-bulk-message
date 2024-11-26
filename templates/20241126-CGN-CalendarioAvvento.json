@@ -1,4 +1,6 @@
-"content": {
-    "subject": "🎁 Il Calendario dell’Avvento di Carta Giovani Nazionale: vuoi conoscere tutte le opportunità?",
-    "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n🎁 Parte il  Calendario dell’Avvento di Carta Giovani Nazionale: ogni giorno troverai in app un’opportunità esclusiva dedicata a te.\n\n🎉 Segui Carta Giovani Nazionale sui nostri social: tutti i giorni, dal 1° al 24 Dicembre, una story con la proposta esclusiva del giorno.\n\n👉 Cerca in app i partner aderenti all’iniziativa contrassegnati con il simbolo 🎄 \n\n➡️ [Instagram](https://www.instagram.com/giovani_e_servizio_civile/)  \n➡️ [Facebook](https://www.facebook.com/PcmGiovaniServiziocivile)"
-},
+{
+    "content": {
+        "subject": "🎁 Il Calendario dell’Avvento di Carta Giovani Nazionale: vuoi conoscere tutte le opportunità?",
+        "markdown": "---\nit:\n    cta_1: \n        text: \"Vai a CGN\"\n        action: \"ioit://CGN_DETAILS\"\nen:\n    cta_1: \n        text: \"See your CGN\"\n        action: \"ioit://CGN_DETAILS\"\n---\n🎁 Parte il  Calendario dell’Avvento di Carta Giovani Nazionale: ogni giorno troverai in app un’opportunità esclusiva dedicata a te.\n\n🎉 Segui Carta Giovani Nazionale sui nostri social: tutti i giorni, dal 1° al 24 Dicembre, una story con la proposta esclusiva del giorno.\n\n👉 Cerca in app i partner aderenti all’iniziativa contrassegnati con il simbolo 🎄 \n\n➡️ [Instagram](https://www.instagram.com/giovani_e_servizio_civile/)  \n➡️ [Facebook](https://www.facebook.com/PcmGiovaniServiziocivile)"
+    }
+}
