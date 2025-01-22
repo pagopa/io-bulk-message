@@ -37,14 +37,14 @@ steps:
     wc -l output_get_message/splitted_*
 
     az config set extension.use_dynamic_install=yes_without_prompt
-    az storage blob directory upload \
-      --account-name iopstexportdata \
-      --container input \
+    az storage fs directory upload \
+      --account-name iopstexportdata\
+      --file-system input \
       --source "output_get_message/splitted_*" \
       --destination-path "${BASE_PATH}/${TIMESTAMP}" \
       --recursive \
       --account-key "${ENV_STORAGE_KEY}"
-    
+
     cd output_get_message
     for filename in splitted_*; do
       [ -e "$filename" ] || continue
