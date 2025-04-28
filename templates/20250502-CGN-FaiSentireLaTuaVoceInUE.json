@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Fai sentire la tua voce in UE!",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n È online **fino al 6 giugno 2025** il [questionario](https://ec.europa.eu/eusurvey/runner/dialogo_UE_giovani#page0) dell'Unione Europea, rivolto ai giovani fino ai 30 anni, per migliorare il dialogo tra gli stessi e le Istituzioni europee.\n\n Dedica qualche minuto, contribuisci con la tua opinione a migliorare sempre di più le politiche giovanili in Europa!"
+  }
+}
