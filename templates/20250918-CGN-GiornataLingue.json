@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Com'è che si dice?",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n 🇬🇧 🇩🇪 Quante lingue conosci? 🇫🇷 🇪🇸 \n\n\nIl 26 settembre è la Giornata europea delle lingue!\n\n\nIn questa occasione, con la Carta Giovani Nazionale, potrai usufruire per un’intera settimana di opportunità speciali ed esclusive per lezioni e corsi di lingua, soggiorni all’estero e certificazioni di inglese, francese, spagnolo e tedesco.\n\n\n👉🏼 **Dal 22 al 28 settembre**, cerca all’interno della sezione dedicata i partner con il simbolo 🇪🇺 e scegli le opportunità che più ti interessano.\n\n\n[Seguici su Instagram](https://www.instagram.com/giovani_e_servizio_civile/) per tutti i dettagli."
+  }
+}
