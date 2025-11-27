@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "🎁 Il Calendario dell'Avvento ti aspetta 🎄",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n🎅Inizia il Calendario dell'Avvento di Carta Giovani Nazionale: ogni giorno un'opportunità diversa, fino al 24 dicembre.\n\n\n🎁Viaggi, tempo libero, benessere, cultura, sport, digitale: cerca i partner con il simbolo 🎄 e scegli ciò che ti piace di più!\n\n\n🤳Seguici [qui](https://www.instagram.com/giovani_e_servizio_civile/) per essere aggiornato in tempo reale sulla proposta del giorno (con le nostre stories)."
+  }
+}
