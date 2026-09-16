@@ -1,4 +1,6 @@
 {
-  "subject": "🇬🇧 🇫🇷 Vuoi imparare una lingua nuova 🇩🇪 🇪🇸?",
-  "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n✨ In occasione della Giornata Europea delle Lingue, sulla tua Carta trovi decine di opportunità per lezioni, corsi, certificazioni, master, cinema in lingua, viaggi all'estero, soggiorni-studio.\n\n1. Cerca i partner con il simbolo 🗣️\n2. esplora le proposte 🔎\n3. scegli ciò che ti interessa di più ✅\n\n📱 Segui l’iniziativa [qui](https://www.instagram.com/giovani_e_servizio_civile/), per dettagli e aggiornamenti"
+  "content": {
+    "subject": "🇬🇧 🇫🇷 Vuoi imparare una lingua nuova 🇩🇪 🇪🇸?",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n✨ In occasione della Giornata Europea delle Lingue, sulla tua Carta trovi decine di opportunità per lezioni, corsi, certificazioni, master, cinema in lingua, viaggi all'estero, soggiorni-studio.\n\n1. Cerca i partner con il simbolo 🗣️\n2. esplora le proposte 🔎\n3. scegli ciò che ti interessa di più ✅\n\n📱 Segui l’iniziativa [qui](https://www.instagram.com/giovani_e_servizio_civile/), per dettagli e aggiornamenti"
+  }
 }
