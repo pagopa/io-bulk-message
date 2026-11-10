@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "Attiva il nuovo portafoglio IT‑Wallet su IO",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Inizia\"\n    action: \"ioit://itw/discovery/info\"\nen:\n  cta_1:\n    text: \"Start here\"\n    action: \"ioit://itw/discovery/info\"\n---\nCiao,\n\nIT‑Wallet è ora su IO: scopri le **funzionalità evolute** e i vantaggi del nuovo portafoglio!\n\nQualche esempio?\n* Usi la tua Patente digitale anche come documento di riconoscimento\n* Hai la Tessera Sanitaria e altri documenti digitali, disponibili solo su IO\n* Potrai far verificare i documenti digitali dal vivo tramite codice QR\n* Potrai presto usare il portafoglio per accedere ai servizi digitali della PA\n[Scopri di più](https://ioapp.it/documenti-su-io)\n\n**Facile, veloce, innovativo**\nInizia ora: ti basta la tua Carta di Identità Elettronica (CIE)."
+  }
+}
