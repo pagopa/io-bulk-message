@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "📢 Dialoga con l’Europa",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n📰 **Ti è mai capitato di credere ad una fake news?**\n\nÈ online il questionario del 12° Ciclo del Dialogo dell'UE con i Giovani, rivolto agli under 30, sul loro rapporto con notizie, social media e mondo digitale. Al ciclo precedente l'Italia è stata il Paese più partecipe, con il 34% di tutte le risposte europee.\n\nGrazie al vostro contributo stiamo aumentando i numeri della partecipazione giovanile in Europa. Hai tempo fino al **22 novembre** per compilare il questionario, ti bastano pochi minuti e puoi accedervi da [qui](https://consultazioni.politichegiovanili.gov.it/879359?lang=it).\n\nScopri cos'è il [Dialogo dell'UE con i Giovani](https://dialogogiovani.it/) sul sito ufficiale e consulta i risultati del ciclo precedente."
+  }
+}
