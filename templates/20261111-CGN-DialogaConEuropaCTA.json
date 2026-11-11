@@ -1,6 +1,6 @@
 {
   "content": {
     "subject": "📢 Dialoga con l’Europa",
-    "markdown": "---\nit:\n  cta_1:\n    text: \"Questionario\"\n    action: \"iohandledlink://https://consultazioni.politichegiovanili.gov.it/879359?lang=it\"\n---\n📰 **Ti è mai capitato di credere ad una fake news?**\n\nSe non l’hai ancora fatto, hai tempo fino al 22 novembre per compilare il [questionario](https://consultazioni.politichegiovanili.gov.it/879359?lang=it) del 12° Ciclo del Dialogo dell'UE con i Giovani, rivolto agli under 30, sul rapporto con notizie, social media e mondo digitale.\n\nGrazie al vostro contributo stiamo aumentando i numeri della partecipazione giovanile in Europa."  
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Questionario\"\n    action: \"iohandledlink://https://consultazioni.politichegiovanili.gov.it/879359?lang=it\"\n---\n📰 **Ti è mai capitato di credere ad una fake news?**\n\nSe non l’hai ancora fatto, hai tempo fino al **22 novembre** per compilare il [questionario](https://consultazioni.politichegiovanili.gov.it/879359?lang=it) del 12° Ciclo del Dialogo dell'UE con i Giovani, rivolto agli under 30, sul rapporto con notizie, social media e mondo digitale.\n\nGrazie al vostro contributo stiamo aumentando i numeri della partecipazione giovanile in Europa."  
   }
 }
