@@ -1,0 +1,6 @@
+{
+  "content": {
+    "subject": "🎄Abbiamo una notizia importante🎄",
+    "markdown": "---\nit:\n  cta_1:\n    text: \"Vai a CGN\"\n    action: \"ioit://CGN_DETAILS\"\nen:\n  cta_1:\n    text: \"Go to CGN\"\n    action: \"ioit://CGN_DETAILS\"\n---\n🎁 Lo sai cosa inizia il primo dicembre? Il **Calendario dell’Avvento** di Carta Giovani Nazionale.\n\nUn’opportunità al giorno per 24 giorni: viaggi, trasporti, tempo libero, benessere, sport, intrattenimento. Ogni proposta è esclusiva, dedicata, migliorativa e temporanea.\n\nLe trovi tutte nella tua Carta: cerca i partner con il simbolo 🎄.\n\n[Segui gli aggiornamenti](https://www.instagram.com/giovani_e_servizio_civile/)"
+  }
+}
